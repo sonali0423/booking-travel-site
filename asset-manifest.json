@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/booking-travel-site/static/css/main.d434c0f4.css",
+    "main.js": "/booking-travel-site/static/js/main.14c0b7b6.js",
+    "static/media/hero-video.mp4": "/booking-travel-site/static/media/hero-video.9e800d0ad3a61e8c12f6.mp4",
+    "static/media/gallery-08.jpg": "/booking-travel-site/static/media/gallery-08.42bb33e04fbaf6b0e88d.jpg",
+    "static/media/gallery-05.jpg": "/booking-travel-site/static/media/gallery-05.45ab035583b65864c53a.jpg",
+    "static/media/hero-img01.jpg": "/booking-travel-site/static/media/hero-img01.cdfa5451ce66d17ee1f8.jpg",
+    "static/media/avatar.jpg": "/booking-travel-site/static/media/avatar.4b1822e13f639c746633.jpg",
+    "static/media/gallery-01.jpg": "/booking-travel-site/static/media/gallery-01.3c21b9a6df0243f772c5.jpg",
+    "static/media/gallery-04.jpg": "/booking-travel-site/static/media/gallery-04.66c107edd159054ae8cf.jpg",
+    "static/media/gallery-03.jpg": "/booking-travel-site/static/media/gallery-03.b327cf60ba18a59db408.jpg",
+    "static/media/ava-1.jpg": "/booking-travel-site/static/media/ava-1.c185d7723fe40ec46830.jpg",
+    "static/media/login.png": "/booking-travel-site/static/media/login.0ef8aace597cf40e2588.png",
+    "static/media/ava-3.jpg": "/booking-travel-site/static/media/ava-3.1442075049ece43143f2.jpg",
+    "static/media/ava-2.jpg": "/booking-travel-site/static/media/ava-2.11e918c656d0c7851624.jpg",
+    "static/media/register.png": "/booking-travel-site/static/media/register.e7a4d6e61777cd826cef.png",
+    "static/media/experience.png": "/booking-travel-site/static/media/experience.f276d1992082e5879afb.png",
+    "static/media/gallery-02.jpg": "/booking-travel-site/static/media/gallery-02.9acd7c84d293f45ac15e.jpg",
+    "static/media/hero-img02.jpg": "/booking-travel-site/static/media/hero-img02.c5c2185a4223b66365fb.jpg",
+    "static/media/gallery-07.jpg": "/booking-travel-site/static/media/gallery-07.c9ae06755eebce595a38.jpg",
+    "static/media/tour.jpg": "/booking-travel-site/static/media/tour.4aa39fc95609710b19aa.jpg",
+    "static/media/gallery-06.jpg": "/booking-travel-site/static/media/gallery-06.4c0ac04026db9075b42b.jpg",
+    "static/media/male-tourist.png": "/booking-travel-site/static/media/male-tourist.f000d0ad1ca492b2bcfb.png",
+    "static/media/world.png": "/booking-travel-site/static/media/world.12b28835610f2449f5e9.png",
+    "static/media/logo.png": "/booking-travel-site/static/media/logo.1106b89da874aa80d0fa.png",
+    "static/media/user.png": "/booking-travel-site/static/media/user.cb965e265fe56c8ca8ca.png",
+    "static/media/revicons.eot": "/booking-travel-site/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/booking-travel-site/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/booking-travel-site/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/booking-travel-site/index.html",
+    "main.d434c0f4.css.map": "/booking-travel-site/static/css/main.d434c0f4.css.map",
+    "main.14c0b7b6.js.map": "/booking-travel-site/static/js/main.14c0b7b6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d434c0f4.css",
+    "static/js/main.14c0b7b6.js"
+  ]
+}
