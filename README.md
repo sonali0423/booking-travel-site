@@ -14,7 +14,7 @@ Welcome to the Travel Booking Site, a web application built using React, Tailwin
 
 ## Deployment
 
-The Travel Booking Site is deployed and can be accessed at [Deployed Site URL](https://65979cf19a65ea8610a7701e--gleaming-melomakarona-87f252.netlify.app/).
+The Travel Booking Site is deployed and can be accessed at [Deployed Site URL](https://enchanting-churros-05e9bf.netlify.app/).
 
 
 # Getting Started with Create React App
